@@ -46,8 +46,7 @@ class ViewController: UIViewController {
 //        alertSample.show()
         
         
-        var window: NSWindow? = nil
-               
+                       
         
         
         
